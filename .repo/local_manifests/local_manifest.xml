@@ -17,9 +17,6 @@
 <remove-project name="platform/system/core" />
 <project path="system/core" name="platform_system_core" remote="phh" revision="android-11.0.0_r3-phh" />
 
-<remove-project name="platform/system/base" />
-<project path="system/base" name="platform_system_base" remote="phh" revision="android-11.0.0_r3-phh" />
-
 <remove-project name="platform/system/nfc" />
 <project path="system/nfc" name="platform_system_nfc" remote="phh" revision="android-11.0.0_r3-phh" />
 
@@ -44,16 +41,7 @@
 <remove-project name="platform/frameworks/opt/telephony" />
 <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="phh" revision="android-11.0.0_r3-phh" />
 
-<remove-project name="platform/packages/modules/Wifi" />
-<project path="packages/modules/Wifi" name="platform_packages_modules_Wifi" remote="phh" revision="android-11.0.0_r3-phh" />
-
 <remove-project name="platform/system/bpf" />
 <project path="system/bpf" name="platform_system_bpf" remote="phh" revision="android-11.0.0_r3-phh" />
-
-<remove-project name="vendor/hardware/overlay" />
-<project path="hardware/overlay" name="vendor_hardware_overlay" remote="phh" revision="android-11.0.0_r3-phh" />
-
-<remove-project name="vendor/foss" />
-<project path="foss" name="vendor_foss" remote="phh" revision="android-11.0.0_r3-phh" />
 
 </manifest>
